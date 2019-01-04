@@ -1,0 +1,37 @@
+header h1 {
+    color: whitesmoke;
+}
+
+
+header h3{
+    color: goldenrod;
+}
+header p{
+    color: white;
+}
+a:hover{
+     color:darkcyan;
+    text-decoration: none;
+}
+a{
+    color: lightblue;
+}
+header{
+    background-color: slateblue;
+
+}
+
+body{
+    font-family: "Arial", sans-serif;
+
+}
+
+time{
+    background-color: darkgrey;
+    border: groove darkcyan;
+}
+img {
+    width: 200px;
+    height: 200px;
+    float: right ;
+}
