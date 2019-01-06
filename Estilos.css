@@ -1,9 +1,8 @@
 header h1 {
     color: whitesmoke;
     text-align: center;
+    font-size: 3em;
 }
-
-
 header h3{
     color: goldenrod;
 }
@@ -18,13 +17,11 @@ a{
     color: lightblue;
 }
 header{
-    background-color: slateblue;
-
+    background-color: black;
 }
 
 body{
     font-family: "Arial", sans-serif;
-
 }
 
 time{
@@ -35,4 +32,12 @@ img {
     width: 200px;
     height: 200px;
     float: right ;
+}
+main h1 {
+    font-size: 2em;
+}
+footer {
+    background-color: black;
+    color: white;
+    text-align: right;
 }
